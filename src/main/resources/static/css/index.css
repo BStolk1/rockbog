@@ -1,19 +1,18 @@
 html {
-    font-family: system-ui;
-    background-color: #0a011a;
-  }
-  
-  h1 {
-    text-transform: uppercase;
-    font-size: 5rem;
-    text-align: center;
-    background-image: linear-gradient(90deg, #1dbde6, #f1515e);
-    /* --------------------Gradient text:-------------------- */
-    -webkit-background-clip: text;
-    background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-    /* --------------------Gradient text:-------------------- */
-  }
-  
+  font-family: system-ui;
+  background-color: #0a011a;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 5rem;
+  text-align: center;
+  background-image: linear-gradient(90deg, #1dbde6, #f1515e);
+  /* --------------------Gradient text:-------------------- */
+  -webkit-background-clip: text;
+  background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  /* --------------------Gradient text:-------------------- */
+}
